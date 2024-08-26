@@ -1,0 +1,24 @@
+.form {
+  border: 1px solid rgb(21, 158, 30);
+  border-radius: 4px;
+  max-width: 300px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-bottom: 10px;
+}
+
+.error {
+  color: rgb(115, 255, 0);
+}
+
+.btn {
+  display: block;
+  margin: 0 auto;
+  padding: 5px;
+}
